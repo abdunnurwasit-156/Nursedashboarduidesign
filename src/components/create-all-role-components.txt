@@ -1,0 +1,45 @@
+This file tracks all components that need to be created for the 6 new roles.
+
+RADIOLOGIST - 5 screens ✅
+- ImagingQueue.tsx ✅
+- InProgressScans.tsx ✅
+- ResultsEntry.tsx ✅
+- CriticalFindings.tsx ✅
+- EquipmentStatus.tsx ✅
+
+NUTRITIONIST - 5 screens ✅
+- AssessmentQueue.tsx ✅
+- MealPlans.tsx ✅
+- TPNManagement.tsx ✅
+- IntakeTracking.tsx ✅
+- NutritionAlerts.tsx ✅
+
+PHYSICAL THERAPIST - 4 screens (1/4 done)
+- PatientReferrals.tsx ✅
+- MobilityAssessments.tsx ⏳
+- TreatmentSessions.tsx ⏳
+- ProgressTracking.tsx ⏳
+
+BIOMED ENGINEER - 4 screens
+- MaintenanceSchedule.tsx ⏳
+- ServiceRequests.tsx ⏳
+- CalibrationSchedule.tsx ⏳
+- EquipmentInventory.tsx ⏳
+
+INFECTION CONTROL - 5 screens
+- ActiveInfections.tsx ⏳
+- IsolationProtocols.tsx ⏳
+- CultureResults.tsx ⏳
+- HAISurveillance.tsx ⏳
+- HandHygieneCompliance.tsx ⏳
+
+QA OFFICER - 5 screens
+- QualityMetrics.tsx ⏳
+- IncidentReviews.tsx ⏳
+- ProtocolCompliance.tsx ⏳
+- MortalityReviews.tsx ⏳
+- ImprovementProjects.tsx ⏳
+
+Total: 28 new component files needed
+Completed: 11/28
+Remaining: 17/28
